@@ -1,7 +1,7 @@
-const enums = require("../../src/enums");
-const keywords = require("../keywords");
+import enums from '../../src/enums';
+import keywords from '../keywords';
 
-module.exports = {
+export default {
   name: "Ville Immonen",
   about:
     "Developer @expo • Dad • Co-founder @reindexio • React Native • GraphQL • JavaScript • Coffee",
